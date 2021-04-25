@@ -20,7 +20,7 @@
 
 ## Deployment
 
-* [Click here to see it on Heroku](https://www.google.com)
+* [Click here to see it on Heroku](https://worklarout.herokuapp.com/?id=6084e5601cf3cd00150de41e)
 
 
 # Contact-Info:
